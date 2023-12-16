@@ -28,6 +28,26 @@ line-height: normal;
 text-decoration-line: underline;
 }
 
+h2 {
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+h3 {
+    color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
 p {
     color: #000;
 font-family: Inter;
@@ -54,4 +74,12 @@ font-size: 40px;
 font-style: italic;
 font-weight: 700;
 line-height: normal;
+}
+
+.mid-image-dog {
+    padding-top: 50px;
+    text-align: left;
+    
+    margin-left: -72px;
+
 }
